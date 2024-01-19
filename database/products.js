@@ -51,5 +51,15 @@ module.exports = [
     "id": 1705667022326,
     "name": "Teclado",
     "price": 20
+  },
+  {
+    "id": 1705681453067,
+    "name": "asdfgh",
+    "price": 563
+  },
+  {
+    "id": 1705681498527,
+    "name": "sadfs",
+    "price": 53
   }
 ];
